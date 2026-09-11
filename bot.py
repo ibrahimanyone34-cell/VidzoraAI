@@ -27,7 +27,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "PASTE_GEMINI_API_KEY_HERE")
 # Put your Telegram channels here later.
 # Example: "@VidzoraAI"
 REQUIRED_CHANNELS = [
-    "@YOUR_CHANNEL_1",
+    "@vidzoraaivideoprompt",
     # "@YOUR_CHANNEL_2",
 ]
 
